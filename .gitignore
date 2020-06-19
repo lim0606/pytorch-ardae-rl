@@ -1,0 +1,9 @@
+*.pyc
+*.sw*
+*.out
+*.csv
+*__MACOSX*
+*.DS_Store
+results
+experiments
+bak
